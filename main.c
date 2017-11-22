@@ -13,7 +13,6 @@
 int add();//void
 
 int main() {
-
     int sum;
     sum = add();
     
